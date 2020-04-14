@@ -3,10 +3,17 @@ A very basic but responsive website created as an assignment for the Introductio
 
 Consists very basic functionlaties like:
   a) Contents bar
+  
   b) Visited counter
+  
   c) Go to Top of the page button.
+  
   d) Photo Gallery
+  
   e) Resposiveness
+  
   f) Links to social media handles
+  
   g) Interactive Form
+  
   
