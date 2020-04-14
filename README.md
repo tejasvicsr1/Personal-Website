@@ -2,6 +2,7 @@
 A very basic but responsive website created as an assignment for the Introduction to Software Systems Course.
 
 Consists very basic functionlaties like:
+
   a) Contents bar
   
   b) Visited counter
