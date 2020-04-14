@@ -1,0 +1,19 @@
+.container 
+{
+    display: grid;
+    grid-template-areas:
+    "photos"
+    
+}
+
+#myPhoto
+{
+    width: 70vw;
+}
+
+.photos
+{
+    
+    justify-self: center;
+    grid-area: "photo";
+}

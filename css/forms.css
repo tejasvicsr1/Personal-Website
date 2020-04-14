@@ -1,0 +1,61 @@
+.container 
+{
+    display: grid;
+    grid-template-areas:
+    "form"
+    "table";
+    grid-row-gap: 10px;
+}
+
+.container2
+{
+    display: grid;
+    /* grid-template-areas:
+    "names names"
+    "skills proficiency"
+    "submission submission"
+    "button button"; */
+    grid-row-gap: 10px;
+}
+
+.form
+{
+    justify-self: center;
+    grid-area: "form";
+}
+
+.table
+{
+    justify-self: center;
+    grid-area: "table";
+}
+
+.names
+{
+    justify-self: center;
+    grid-area: "names";
+}
+
+.skills
+{
+    grid-area: "skills";
+    justify-self: left;
+}
+
+.proficiency
+{
+    grid-area: "proficiency";
+    justify-self: right;
+}
+
+.submission
+{
+    justify-self: center;
+    grid-area: "submission";
+}
+
+.button
+{
+    justify-self: center;
+    grid-area: "button";
+}
